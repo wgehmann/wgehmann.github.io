@@ -1,0 +1,389 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ligetilines.com" resolutions="1x" timestamp="1471836561630">
+  <folder name="css">
+    <file name="site_global.css" crc="450523190"/>
+    <file name="master_home-scroll.css" crc="3847741014" ref="index"/>
+    <file name="nomq_preview_master_home-scroll.css" crc="3824530138" ref="index"/>
+    <file name="master_normal.css" crc="4137825411" ref="graphic-score:gesture-music-art-dance:reading-relationships-in-the-graphic-score:legetilines-collaborator-bios:contact-ligetilines:lines-limited-ligetilines-store:lines-for-gage"/>
+    <file name="nomq_preview_master_normal.css" crc="3804820948" ref="graphic-score:gesture-music-art-dance:reading-relationships-in-the-graphic-score:legetilines-collaborator-bios:contact-ligetilines:lines-limited-ligetilines-store:lines-for-gage"/>
+    <file name="graphic-score.css" crc="403472434" ref="graphic-score"/>
+    <file name="nomq_graphic-score.css" crc="4230510760" ref="graphic-score"/>
+    <file name="gesture-music-art-dance.css" crc="221029581" ref="gesture-music-art-dance"/>
+    <file name="nomq_gesture-music-art-dance.css" crc="486953759" ref="gesture-music-art-dance"/>
+    <file name="reading-relationships-in-the-graphic-score.css" crc="58057028" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="nomq_reading-relationships-in-the-graphic-score.css" crc="3827136396" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="legetilines-collaborator-bios.css" crc="443379943" ref="legetilines-collaborator-bios"/>
+    <file name="nomq_legetilines-collaborator-bios.css" crc="441871843" ref="legetilines-collaborator-bios"/>
+    <file name="index.css" crc="3906149636" ref="index"/>
+    <file name="nomq_index.css" crc="3824530138" ref="index"/>
+    <file name="contact-ligetilines.css" crc="214206464" ref="contact-ligetilines"/>
+    <file name="nomq_contact-ligetilines.css" crc="4072125900" ref="contact-ligetilines"/>
+    <file name="lines-limited-ligetilines-store.css" crc="4058035656" ref="lines-limited-ligetilines-store"/>
+    <file name="nomq_lines-limited-ligetilines-store.css" crc="3780017482" ref="lines-limited-ligetilines-store"/>
+    <file name="lines-for-gage.css" crc="3894049409" ref="lines-for-gage"/>
+    <file name="nomq_lines-for-gage.css" crc="93574368" ref="lines-for-gage"/>
+  </folder>
+  <folder name="assets">
+    <file name="answer-group-progression.psd" crc="212555064" seo="true" mt="1462273488000"/>
+    <file name="llp-explaining-painting.pdf" crc="4263064069" seo="true" mt="1460488274000"/>
+    <file name="llp-coc.pdf" crc="183270907" seo="true" mt="1460488302000"/>
+    <file name="llp-introduction.pdf" crc="361028798" seo="true" mt="1460488344000"/>
+    <file name="subject---answer.mp3" crc="4259404204" seo="true" mt="1465302690000"/>
+    <file name="bkgrnd.-audio-(smaller).svg" crc="4289874341" seo="true" mt="1466170274000"/>
+    <file name="lscs-gs-tif-capriccio-panorama.tif" crc="229407133" seo="true" mt="1455723790000"/>
+    <file name="lscs-gs-dialogo-expo.jpg" crc="4081106982" seo="true" mt="1455884942000"/>
+    <file name="capriccio-(dialogo-sized-epz).jpg" crc="359354647" seo="true" mt="1466091468000"/>
+    <file name="bkgrnd.-audio-off-(smaller).svg" crc="326072943" seo="true" mt="1466169807000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="pie.js" crc="3831537696" ref="phone>index:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="phone>index:phone>about:tablet>index:index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="webpro.js" crc="4067903014" ref="tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:graphic-score:contact-ligetilines"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="tablet>index:index:reading-relationships-in-the-graphic-score:graphic-score"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="tablet>index:index:reading-relationships-in-the-graphic-score:graphic-score"/>
+    <file name="touchswipe.js" crc="474750357" ref="tablet>index:index:reading-relationships-in-the-graphic-score:graphic-score"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="gesture-music-art-dance:lines-for-gage"/>
+    <file name="form_check.php" crc="121412709" ref="contact-ligetilines"/>
+    <file name="form_throttle.php" crc="4268640971" ref="contact-ligetilines"/>
+    <file name="form_process.php" crc="444429785" ref="contact-ligetilines"/>
+    <file name="form-u3805.php" crc="238112934" ref="contact-ligetilines"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="143855768" ref="phone>index"/>
+    <file name="pasted-svg-19153x228.svg" crc="399197872" seo="true" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="pasted svg 19153x228_poster_.png" crc="3903515722" ref="phone>index"/>
+    <file name="pasted-svg-203926x243.svg" crc="427864519" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="pasted svg 203926x243_poster_.png" crc="510044917" ref="phone>index"/>
+    <file name="pasted-svg-102983x340.svg" crc="407445697" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="pasted svg 102983x340_poster_.png" crc="19042614" ref="phone>index"/>
+    <file name="bmy.png" crc="3840829826" seo="true" ref="phone>index"/>
+    <file name="pasted-svg-266895x266.svg" crc="122308648" seo="true" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="pasted svg 266895x266_poster_.png" crc="3817548174" ref="phone>index"/>
+    <file name="pasted-svg-503841x503.svg" crc="4209830392" seo="true" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="pasted svg 503841x503_poster_.png" crc="3940086031" ref="phone>index"/>
+    <file name="pasted-svg-167001x166.svg" crc="3811973846" seo="true" ref="phone>index:phone>about:tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="pasted svg 167001x166_poster_.png" crc="170514981" ref="phone>index"/>
+    <file name="pasted-svg-9.svg" crc="230810266" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 9_poster_.png" crc="3883058611" ref="tablet>index"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="pasted-svg-64417x32.svg" crc="87887746" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 64417x32_poster_.png" crc="326141729" ref="tablet>index"/>
+    <file name="pasted-svg-1566.svg" crc="253646284" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 1566_poster_.png" crc="131710751" ref="tablet>index"/>
+    <file name="pasted-svg-1565.svg" crc="4283179397" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 1565_poster_.png" crc="4109261577" ref="tablet>index"/>
+    <file name="b-y shades pastel-rectangle 2768x768.png" crc="4216802325" seo="true" ref="tablet>index"/>
+    <file name="b-y shades pastel-rectangle 1768x768.png" crc="64156246" seo="true" ref="tablet>index"/>
+    <file name="pasted-svg-1259.svg" crc="3884296368" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 1259_poster_.png" crc="76933234" ref="tablet>index"/>
+    <file name="pasted-svg-1258.svg" crc="3948303882" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 1258_poster_.png" crc="421144507" ref="tablet>index"/>
+    <file name="pasted-svg-917.svg" crc="4142617100" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 917_poster_.png" crc="448193542" ref="tablet>index"/>
+    <file name="pasted-svg-916.svg" crc="281224597" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 916_poster_.png" crc="373401814" ref="tablet>index"/>
+    <file name="pasted-svg-529x528.svg" crc="521224577" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 529x528_poster_.png" crc="312196567" ref="tablet>index"/>
+    <file name="pasted-svg-530.svg" crc="25848885" seo="true" ref="tablet>index:index"/>
+    <file name="pasted svg 530_poster_.png" crc="82464254" ref="tablet>index"/>
+    <file name="pasted-svg-91237x84.svg" crc="210114346" seo="true" ref="tablet>index:index:graphic-score"/>
+    <file name="pasted svg 91237x84_poster_.png" crc="4150015813" ref="tablet>index"/>
+    <file name="pasted-svg-88668x84.svg" crc="4241583926" seo="true" ref="tablet>index:index:lines-for-gage:lines-limited-ligetilines-store:graphic-score"/>
+    <file name="pasted svg 88668x84_poster_.png" crc="3887686087" ref="tablet>index"/>
+    <file name="wassily_kandinsky_2.jpg" crc="4073313750" seo="true" ref="tablet>index:index"/>
+    <file name="pdf_icon.svg" crc="4190256238" seo="true" ref="tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance"/>
+    <file name="pdf_icon_poster_.png" crc="3979142124" ref="tablet>index"/>
+    <file name="pasted-svg-348409x40.svg" crc="3943018422" seo="true" ref="tablet>index:index:reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="pasted svg 348409x40_poster_.png" crc="4070075595" ref="tablet>index"/>
+    <file name="b-y shades pastel-rectangle 2.png" crc="3780044040" seo="true" ref="index"/>
+    <file name="b-y shades pastel-rectangle 1.png" crc="484397771" seo="true" ref="index"/>
+    <file name="u3110.png" crc="57443493" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-r.png" crc="232744205" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-a.png" crc="251352638" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116.png" crc="49849293" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-r.png" crc="238746787" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-a.png" crc="4052465292" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122.png" crc="176918575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-r.png" crc="3859350880" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-a.png" crc="4214102803" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128.png" crc="4001307909" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-r.png" crc="348031004" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-a.png" crc="4276575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134.png" crc="4223918044" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-r.png" crc="4291838503" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-a.png" crc="148695663" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="capriccio bariolady (smaller - edge refine).png" crc="3879200569" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="arrows.png" crc="3790710721" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="dialogo thread-(w- refine edge).png" crc="4068237385" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="pillars.png" crc="3837004218" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="infinity silence.png" crc="298329310" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="arp dots.png" crc="409284986" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="stretto brackets (smaller).png" crc="3768651701" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="bmy2.png" crc="122513257" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="answer group (smaller).png" crc="4115257074" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="pizz - thread (smaller).png" crc="359318433" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="threaded volume (smaller).png" crc="201070786" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="anomaly trans (smaller).png" crc="286668377" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="pizz gliss frame (smaller)-(w- edge refine).png" crc="238765198" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="primary bari (smaller)-u3378.png" crc="108011982" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="bari inverse (smaller)-(w- edge refine).png" crc="278939304" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="b-y shades pastel.png" crc="4203236966" ref="reading-relationships-in-the-graphic-score:gesture-music-art-dance:lines-for-gage:lines-limited-ligetilines-store:graphic-score:legetilines-collaborator-bios:contact-ligetilines"/>
+    <file name="u31102.png" crc="57443493" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-r2.png" crc="232744205" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-a2.png" crc="251352638" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31162.png" crc="49849293" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-r2.png" crc="238746787" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-a2.png" crc="4052465292" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31222.png" crc="176918575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-r2.png" crc="3859350880" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-a2.png" crc="4214102803" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31282.png" crc="4001307909" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-r2.png" crc="348031004" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-a2.png" crc="4276575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31342.png" crc="4223918044" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-r2.png" crc="4291838503" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-a2.png" crc="148695663" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="primary bari (smaller)-u33782.png" crc="16564141" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31103.png" crc="57443493" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-r3.png" crc="232744205" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-a3.png" crc="251352638" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31163.png" crc="49849293" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-r3.png" crc="238746787" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-a3.png" crc="4052465292" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31223.png" crc="176918575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-r3.png" crc="3859350880" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-a3.png" crc="4214102803" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31283.png" crc="4001307909" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-r3.png" crc="348031004" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-a3.png" crc="4276575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31343.png" crc="4223918044" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-r3.png" crc="4291838503" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-a3.png" crc="148695663" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="primary bari (smaller)-u33783.png" crc="16564141" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31104.png" crc="57443493" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-r4.png" crc="232744205" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-a4.png" crc="251352638" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31164.png" crc="49849293" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-r4.png" crc="238746787" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-a4.png" crc="4052465292" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31224.png" crc="176918575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-r4.png" crc="3859350880" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-a4.png" crc="4214102803" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31284.png" crc="4001307909" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-r4.png" crc="348031004" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-a4.png" crc="4276575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31344.png" crc="4223918044" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-r4.png" crc="4291838503" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-a4.png" crc="148695663" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="capriccio bariolady (smaller - edge refine)854x236.png" crc="156409156" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="pizz gliss frame (smaller)-(w- edge refine)823x490.png" crc="164067838" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="primary bari (smaller)-u33784.png" crc="4181324506" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="bari inverse (smaller)-(w- edge refine)866x269.png" crc="3961655638" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31105.png" crc="57443493" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-r5.png" crc="232744205" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-a5.png" crc="251352638" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31165.png" crc="49849293" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-r5.png" crc="238746787" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-a5.png" crc="4052465292" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31225.png" crc="176918575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-r5.png" crc="3859350880" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-a5.png" crc="4214102803" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31285.png" crc="4001307909" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-r5.png" crc="348031004" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-a5.png" crc="4276575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31345.png" crc="4223918044" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-r5.png" crc="4291838503" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-a5.png" crc="148695663" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="capriccio bariolady (smaller - edge refine)653x181.png" crc="394971952" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="pillars464x209.png" crc="467755163" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="pizz gliss frame (smaller)-(w- edge refine)652x388.png" crc="381167468" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="primary bari (smaller)-u33785.png" crc="4287613392" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="bari inverse (smaller)-(w- edge refine)669x208.png" crc="4019415451" seo="true" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31106.png" crc="57443493" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-r6.png" crc="232744205" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3110-a6.png" crc="251352638" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31166.png" crc="49849293" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-r6.png" crc="238746787" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3116-a6.png" crc="4052465292" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31226.png" crc="176918575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-r6.png" crc="3859350880" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3122-a6.png" crc="4214102803" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31286.png" crc="4001307909" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-r6.png" crc="348031004" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3128-a6.png" crc="4276575" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u31346.png" crc="4223918044" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-r6.png" crc="4291838503" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="u3134-a6.png" crc="148695663" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="primary bari (smaller)-u33786.png" crc="4287613392" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="b-y shades pastel1100x1100.png" crc="3920408473" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="b-y shades pastel1000x1000.png" crc="3761890897" ref="reading-relationships-in-the-graphic-score"/>
+    <file name="pizz gliss wash.jpg" crc="3777400054" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pizz-gliss wash.png" crc="388649759" seo="true" ref="gesture-music-art-dance"/>
+    <file name="spectrum spiral.jpg" crc="4090719713" seo="true" ref="gesture-music-art-dance"/>
+    <file name="spectrum spiral.png" crc="432925190" seo="true" ref="gesture-music-art-dance"/>
+    <file name="trem globs try 2.jpg" crc="3932692090" seo="true" ref="gesture-music-art-dance"/>
+    <file name="double glob.png" crc="443842890" seo="true" ref="gesture-music-art-dance"/>
+    <file name="claw slashes.jpg" crc="409310533" seo="true" ref="gesture-music-art-dance"/>
+    <file name="claw slash.png" crc="368092185" seo="true" ref="gesture-music-art-dance"/>
+    <file name="primary cut.jpg" crc="4219009771" seo="true" ref="gesture-music-art-dance"/>
+    <file name="primary cut.png" crc="3895915016" seo="true" ref="gesture-music-art-dance"/>
+    <file name="upward releases.jpg" crc="24642998" seo="true" ref="gesture-music-art-dance"/>
+    <file name="upward release.png" crc="334856452" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pizz rebound.jpg" crc="4133068455" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pizz rebound.png" crc="395146322" seo="true" ref="gesture-music-art-dance"/>
+    <file name="double tunnel try 2.jpg" crc="153309757" seo="true" ref="gesture-music-art-dance"/>
+    <file name="double tunnel.png" crc="362162447" seo="true" ref="gesture-music-art-dance"/>
+    <file name="detaché pair.jpg" crc="440966363" seo="true" ref="gesture-music-art-dance"/>
+    <file name="detaché pair (smaller).png" crc="316446685" seo="true" ref="gesture-music-art-dance"/>
+    <file name="muted waves.jpg" crc="4191162079" seo="true" ref="gesture-music-art-dance"/>
+    <file name="muted waves.png" crc="49060685" seo="true" ref="gesture-music-art-dance"/>
+    <file name="ricochet tail.jpg" crc="3971897367" seo="true" ref="gesture-music-art-dance"/>
+    <file name="richochet tail.png" crc="3924499018" seo="true" ref="gesture-music-art-dance"/>
+    <file name="hemiola stretch.jpg" crc="4197320639" seo="true" ref="gesture-music-art-dance"/>
+    <file name="hemiola stretch.png" crc="227221557" seo="true" ref="gesture-music-art-dance"/>
+    <file name="chord flame try 2.jpg" crc="4138171680" seo="true" ref="gesture-music-art-dance"/>
+    <file name="rebound flame.png" crc="24840449" seo="true" ref="gesture-music-art-dance"/>
+    <file name="joel sung triad.gif" crc="297774329" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pj-burp.gif" crc="3875118405" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pj-mechanized.gif" crc="3819364273" seo="true" ref="gesture-music-art-dance"/>
+    <file name="joel -eh-.gif" crc="2420183" seo="true" ref="gesture-music-art-dance"/>
+    <file name="joel -ha-haaa-.gif" crc="3932768750" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pj-matrix.gif" crc="3996707083" seo="true" ref="gesture-music-art-dance"/>
+    <file name="joel -luh-ta-bah- .gif" crc="464308725" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pj-mime.gif" crc="178285117" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pj-poof.gif" crc="4111895625" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pj-screech.gif" crc="81347437" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pj-slither.gif" crc="4249324404" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pj-skydive.gif" crc="3818096063" seo="true" ref="gesture-music-art-dance"/>
+    <file name="joel -zooo-.gif" crc="4124054975" seo="true" ref="gesture-music-art-dance"/>
+    <file name="lscs-dialogo.svg" crc="4096592501" seo="true" ref="gesture-music-art-dance"/>
+    <file name="lscs dialogo_poster_.png" crc="4281271649" ref="gesture-music-art-dance"/>
+    <file name="dialogo 1 (sized).png" crc="3833054040" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pasted-svg-153212x227.svg" crc="3845625371" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pasted svg 153212x227_poster_.png" crc="398216219" ref="gesture-music-art-dance"/>
+    <file name="lscs-capriccio_0001.svg" crc="4284783052" seo="true" ref="gesture-music-art-dance"/>
+    <file name="lscs capriccio_0001_poster_.png" crc="305705768" ref="gesture-music-art-dance"/>
+    <file name="capriccio 1 (sized).png" crc="493300128" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pasted-svg-145056x144.svg" crc="42183958" seo="true" ref="gesture-music-art-dance"/>
+    <file name="pasted svg 145056x144_poster_.png" crc="374444171" ref="gesture-music-art-dance"/>
+    <file name="b-y shades pastel1060x1060.png" crc="4035036742" ref="gesture-music-art-dance"/>
+    <file name="b-y shades pastel780x780.png" crc="3846330094" ref="gesture-music-art-dance"/>
+    <file name="b-y shades pastel640x640.png" crc="256983105" ref="gesture-music-art-dance"/>
+    <file name="capriccio 16 (sized).png" crc="3776600407" seo="true" ref="lines-for-gage"/>
+    <file name="lfg molto lento.jpg" crc="4019890776" seo="true" ref="lines-for-gage"/>
+    <file name="lfg pizz.jpg" crc="252108527" seo="true" ref="lines-for-gage"/>
+    <file name="dialogo 2 (sized).png" crc="450571931" seo="true" ref="lines-for-gage"/>
+    <file name="lfg wt.jpg" crc="94878592" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 14 (sized).png" crc="3801598084" seo="true" ref="lines-for-gage"/>
+    <file name="lfg con moto.jpg" crc="138482541" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 16 (sized)762x570.png" crc="138106817" seo="true" ref="lines-for-gage"/>
+    <file name="dialogo 2 (sized)763x570.png" crc="261862372" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 14 (sized)762x570.png" crc="3971359388" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 16 (sized)651x487.png" crc="4197583822" seo="true" ref="lines-for-gage"/>
+    <file name="dialogo 2 (sized)652x487.png" crc="108340015" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 14 (sized)651x487.png" crc="3849251455" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 16 (sized)610x457.png" crc="156459358" seo="true" ref="lines-for-gage"/>
+    <file name="dialogo 2 (sized)611x456.png" crc="3970288048" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 14 (sized)610x456.png" crc="429980153" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 16 (sized)521x390.png" crc="4083044727" seo="true" ref="lines-for-gage"/>
+    <file name="dialogo 2 (sized)521x389.png" crc="527381360" seo="true" ref="lines-for-gage"/>
+    <file name="capriccio 14 (sized)521x389.png" crc="3923410032" seo="true" ref="lines-for-gage"/>
+    <file name="b-y shades pastel712x712.png" crc="3817127978" ref="lines-for-gage"/>
+    <file name="capriccio pizz gliss.png" crc="4145559929" seo="true" ref="graphic-score"/>
+    <file name="dialog pizz gliss-upper.png" crc="3971537362" seo="true" ref="graphic-score"/>
+    <file name="b-y shades pastel960x960.png" crc="3920188806" ref="graphic-score"/>
+    <file name="ll biopic-pj-u2558.png" crc="3873587583" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-harriet-u2552.png" crc="4059218091" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-gage-u2540.png" crc="3947451921" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-dan-u2546.png" crc="127588308" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic (larger)-joel-u2564.png" crc="233004742" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-pj-u25582.png" crc="3873587583" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-harriet-u25522.png" crc="4059218091" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-gage-u25402.png" crc="3947451921" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-dan-u25462.png" crc="127588308" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic (larger)-joel-u25642.png" crc="233004742" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-pj-u25583.png" crc="3873587583" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-harriet-u25523.png" crc="4059218091" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-gage-u25403.png" crc="3947451921" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-dan-u25463.png" crc="127588308" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic (larger)-joel-u25643.png" crc="233004742" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-pj-u25584.png" crc="3873587583" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-harriet-u25524.png" crc="4059218091" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-gage-u25404.png" crc="3947451921" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-dan-u25464.png" crc="127588308" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic (larger)-joel-u25644.png" crc="233004742" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-gage-u25405.png" crc="3947451921" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-dan-u25465.png" crc="127588308" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-harriet-u25525.png" crc="4059218091" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-pj-u25585.png" crc="3873587583" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic (larger)-joel-u25645.png" crc="233004742" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-gage-u25406.png" crc="420240285" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-dan-u25466.png" crc="4128066268" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-harriet-u25526.png" crc="3909652063" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic-pj-u25586.png" crc="496223123" ref="legetilines-collaborator-bios"/>
+    <file name="ll biopic (larger)-joel-u25646.png" crc="61936820" ref="legetilines-collaborator-bios"/>
+    <file name="u3821-17.png" crc="245759764" ref="contact-ligetilines"/>
+    <file name="u3821-17-r.png" crc="536170083" ref="contact-ligetilines"/>
+    <file name="u3821-17-m.png" crc="274638131" ref="contact-ligetilines"/>
+    <file name="u3821-17-fs.png" crc="318321805" ref="contact-ligetilines"/>
+    <file name="u3821-172.png" crc="245759764" ref="contact-ligetilines"/>
+    <file name="u3821-17-r2.png" crc="536170083" ref="contact-ligetilines"/>
+    <file name="u3821-17-m2.png" crc="274638131" ref="contact-ligetilines"/>
+    <file name="u3821-17-fs2.png" crc="318321805" ref="contact-ligetilines"/>
+    <file name="u3821-173.png" crc="245759764" ref="contact-ligetilines"/>
+    <file name="u3821-17-r3.png" crc="536170083" ref="contact-ligetilines"/>
+    <file name="u3821-17-m3.png" crc="274638131" ref="contact-ligetilines"/>
+    <file name="u3821-17-fs3.png" crc="318321805" ref="contact-ligetilines"/>
+    <file name="u3821-174.png" crc="245759764" ref="contact-ligetilines"/>
+    <file name="u3821-17-r4.png" crc="536170083" ref="contact-ligetilines"/>
+    <file name="u3821-17-m4.png" crc="274638131" ref="contact-ligetilines"/>
+    <file name="u3821-17-fs4.png" crc="318321805" ref="contact-ligetilines"/>
+    <file name="u3821-175.png" crc="245759764" ref="contact-ligetilines"/>
+    <file name="u3821-17-r5.png" crc="536170083" ref="contact-ligetilines"/>
+    <file name="u3821-17-m5.png" crc="274638131" ref="contact-ligetilines"/>
+    <file name="u3821-17-fs5.png" crc="318321805" ref="contact-ligetilines"/>
+    <file name="u3821-176.png" crc="245759764" ref="contact-ligetilines"/>
+    <file name="u3821-17-r6.png" crc="536170083" ref="contact-ligetilines"/>
+    <file name="u3821-17-m6.png" crc="274638131" ref="contact-ligetilines"/>
+    <file name="u3821-17-fs6.png" crc="318321805" ref="contact-ligetilines"/>
+    <file name="u3821-177.png" crc="245759764" ref="contact-ligetilines"/>
+    <file name="u3821-17-r7.png" crc="536170083" ref="contact-ligetilines"/>
+    <file name="u3821-17-m7.png" crc="274638131" ref="contact-ligetilines"/>
+    <file name="u3821-17-fs7.png" crc="318321805" ref="contact-ligetilines"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_home-scroll.css" crc="4284317488" ref="tablet>index"/>
+      <file name="nomq_preview_master_home-scroll.css" crc="3824530138" ref="tablet>index"/>
+      <file name="index.css" crc="517585688" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4001028939" seo="true" mt="1471833733786" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_normal.css" crc="517794846" ref="phone>about:phone>index"/>
+      <file name="nomq_preview_master_normal.css" crc="3824530138" ref="phone>about:phone>index"/>
+      <file name="about.css" crc="4193167454" ref="phone>about"/>
+      <file name="nomq_about.css" crc="3824530138" ref="phone>about"/>
+      <file name="index.css" crc="292165282" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3979977729" seo="true" mt="1471836035589" redirect="true"/>
+    <file name="about.html" crc="3989509094" seo="true" mt="1471836035589" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4176068834" seo="true" mt="1471831696107" redirect="true"/>
+  <file name="reading-relationships-in-the-graphic-score.html" crc="449958090" seo="true" mt="1471836242523" redirect="true"/>
+  <file name="gesture-music-art-dance.html" crc="486576682" seo="true" mt="1471836242523" redirect="true"/>
+  <file name="lines-for-gage.html" crc="4119701829" seo="true" mt="1471836242523" redirect="true"/>
+  <file name="lines-limited-ligetilines-store.html" crc="3968944281" seo="true" mt="1471836242523" redirect="true"/>
+  <file name="graphic-score.html" crc="4234019161" seo="true" mt="1471836242523" redirect="true"/>
+  <file name="legetilines-collaborator-bios.html" crc="4201216809" seo="true" mt="1471836242523" redirect="true"/>
+  <file name="contact-ligetilines.html" crc="3821986120" seo="true" mt="1471836242523" redirect="true"/>
+</manifest>
